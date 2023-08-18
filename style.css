@@ -1,0 +1,29 @@
+body{
+    background-color: lightsalmon ;
+}
+
+img{
+    margin: 0px ;
+    border: solid black;
+    border-width: 2px 2px;
+}
+
+.poster{ 
+    margin-top: 80px;
+    text-align: center;
+    color:black;
+
+
+}
+
+h1{
+    font-family: 'Lora', serif;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+p{
+    font-family: 'Borel', cursive;
+    font-size: 18px;
+   
+}
